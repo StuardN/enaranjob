@@ -2,16 +2,16 @@
 
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Erlyn Naranjo',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  title: 'Erlyn Naranjo Blog',
+  author: 'Erlyn Naranjo',
+  headerTitle: 'Erlyn Naranjo',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/erlyn.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com',
