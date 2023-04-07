@@ -13,10 +13,9 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/erlyn.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'https://stuardn.github.io/Portfolio/',
   github: 'https://github.com/StuardN',
-  twitter: 'https://twitter.com/Twitter',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/stuard-naranjo-986688271/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
