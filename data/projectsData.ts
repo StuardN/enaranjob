@@ -13,7 +13,7 @@ const projectsData = [
     href: 'https://github.com/StuardN/Crud-Django',
   },
   {
-    title: 'Potfolio',
+    title: 'Portfolio',
     description: `En este portfolio encontrarás más información sobre mí ->`,
     imgSrc: '/static/images/port.png',
     href: 'https://stuardn.github.io/Portfolio/',
